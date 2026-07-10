@@ -50,7 +50,7 @@
       {
         "id": 1,
         "name": "Netflix",
-        "logo": "https://yourdomain.com/logo/netflix.png",
+        "logo": "https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940",
 
         "playlist_url": "https://yourdomain.com/m3u/netflix.m3u",
         "cookie_url": "https://yourdomain.com/cookies/netflix.txt",
