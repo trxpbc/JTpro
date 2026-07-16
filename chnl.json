@@ -1,25 +1,85 @@
 [
   {
     "name": "JioTV Live",
-    "logo": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/logos/jiotv.png",
+    "logo": "https://m.media-amazon.com/images/I/31GngoiH5pL.png",
     "url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
     "cookieUrl": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
   },
   {
     "name": "Star Sports 1 HD",
-    "logo": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/logos/starsports1.png",
+    "logo": "https://m.media-amazon.com/images/I/31GngoiH5pL.png",
     "url": "https://example.com/live/starsports1.m3u8",
     "cookieUrl": ""
   },
   {
     "name": "Sony Ten 1 HD",
-    "logo": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/logos/sonyten1.png",
+    "logo": "https://m.media-amazon.com/images/I/31GngoiH5pL.png",
     "url": "https://example.com/live/sonyten1.m3u8",
     "cookieUrl": ""
   },
   {
     "name": "HBO Blockbusters",
-    "logo": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/logos/hbo.png",
+    "logo": "https://m.media-amazon.com/images/I/31GngoiH5pL.png",
+    "url": "https://example.com/live/hbo.m3u8",
+    "cookieUrl": ""
+  },
+  {
+    "name": "HBO Blockbusters",
+    "logo": "https://m.media-amazon.com/images/I/31GngoiH5pL.png",
+    "url": "https://example.com/live/hbo.m3u8",
+    "cookieUrl": ""
+  },
+  {
+    "name": "HBO Blockbusters",
+    "logo": "https://m.media-amazon.com/images/I/31GngoiH5pL.png",
+    "url": "https://example.com/live/hbo.m3u8",
+    "cookieUrl": ""
+  },
+  {
+    "name": "HBO Blockbusters",
+    "logo": "https://m.media-amazon.com/images/I/31GngoiH5pL.png",
+    "url": "https://example.com/live/hbo.m3u8",
+    "cookieUrl": ""
+  },
+  {
+    "name": "JioTV Live",
+    "logo": "https://m.media-amazon.com/images/I/31GngoiH5pL.png",
+    "url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
+    "cookieUrl": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
+  },
+  {
+    "name": "Star Sports 1 HD",
+    "logo": "https://m.media-amazon.com/images/I/31GngoiH5pL.png",
+    "url": "https://example.com/live/starsports1.m3u8",
+    "cookieUrl": ""
+  },
+  {
+    "name": "Sony Ten 1 HD",
+    "logo": "https://m.media-amazon.com/images/I/31GngoiH5pL.png",
+    "url": "https://example.com/live/sonyten1.m3u8",
+    "cookieUrl": ""
+  },
+  {
+    "name": "HBO Blockbusters",
+    "logo": "https://m.media-amazon.com/images/I/31GngoiH5pL.png",
+    "url": "https://example.com/live/hbo.m3u8",
+    "cookieUrl": ""
+  },
+  {
+    "name": "HBO Blockbusters",
+    "logo": "https://m.media-amazon.com/images/I/31GngoiH5pL.png",
+    "url": "https://example.com/live/hbo.m3u8",
+    "cookieUrl": ""
+  },
+  {
+    "name": "HBO Blockbusters",
+    "logo": "https://m.media-amazon.com/images/I/31GngoiH5pL.png",
+    "url": "https://example.com/live/hbo.m3u8",
+    "cookieUrl": ""
+  },
+  {
+    "name": "HBO Blockbusters",
+    "logo": "https://m.media-amazon.com/images/I/31GngoiH5pL.png",
     "url": "https://example.com/live/hbo.m3u8",
     "cookieUrl": ""
   }
