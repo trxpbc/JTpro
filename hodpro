@@ -25,10 +25,10 @@
   "livetv_categories": [
     {
       "id": 101,
-      "name": "SPORTS LIVE",
-      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/sports.png",
-      "playlist_url": "https://example.com/sports_live.m3u",
-      "cookie_url": "https://example.com/api/get_category_cookies?id=101"
+      "name": "Sony LIV",
+      "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKVHZLNKVLho_dWJLC9pnt-Dc0F0xW3jn2vAPLTuCox-WXdxSQR22STM8&s=10",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/vtpi/refs/heads/main/SlvSD",
+      "cookie_url": ""
     },
     {
       "id": 102,
