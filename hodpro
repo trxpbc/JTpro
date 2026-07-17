@@ -32,9 +32,9 @@
     },
     {
       "id": 102,
-      "name": "NEWS LIVE",
+      "name": "JioTV+",
       "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/news.png",
-      "playlist_url": "https://example.com/news_live.m3u",
+      "playlist_url": "https://pllive.bmera5952.workers.dev/",
       "cookie_url": ""
     },
     {
