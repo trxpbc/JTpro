@@ -1,234 +1,85 @@
 {
-  "status": true,
-
-  "app": {
-    "name": "IPTV Pro",
-    "version": "1.0.0",
-    "maintenance": false,
-    "force_update": false,
-    "update_url": "",
-    "notice": "Welcome to IPTV Pro"
-  },
-
-  "home": {
-    "banner_auto_slide": true,
-    "slide_duration": 5000
-  },
-
   "banners": [
     {
       "id": 1,
-      "title": "John Wick Chapter 4",
-      "description": "Action Thriller",
-      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUusjsF5TTSCxJiDfxyQwF7CXbEnXsqZhOSn_jgp10TD7l2poPhLzVI-A&s=10",
-      "backdrop": "https://yourdomain.com/backdrops/johnwick4.jpg",
-      "video_url": "https://yourdomain.com/video/johnwick4.m3u8",
-      "trailer_url": "https://youtube.com/watch?v=xxxxx",
-      "rating": "8.5",
-      "genre": "Action",
-      "year": "2024"
+      "title": "Welcome to Premium IPTV",
+      "image_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/banner1.jpg",
+      "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "cookie_url": "https://example.com/api/get_banner_cookies?id=1"
     },
     {
       "id": 2,
-      "title": "Avatar 2",
-      "description": "Adventure",
-      "poster": "https://yourdomain.com/posters/avatar2.jpg",
-      "backdrop": "https://yourdomain.com/backdrops/avatar2.jpg",
-      "video_url": "https://yourdomain.com/video/avatar2.m3u8",
-      "trailer_url": "https://youtube.com/watch?v=xxxxx",
-      "rating": "8.3",
-      "genre": "Adventure",
-      "year": "2023"
+      "title": "Live Sports Season",
+      "image_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/banner2.jpg",
+      "stream_url": "https://example.com/live/sports_special.m3u8",
+      "cookie_url": "https://example.com/api/get_banner_cookies?id=2"
+    },
+    {
+      "id": 3,
+      "title": "Blockbuster Movies HD",
+      "image_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/banner3.jpg",
+      "stream_url": "https://example.com/movies/feature_film.m3u8",
+      "cookie_url": ""
     }
   ],
-
-  "popular_ott": {
-    "title": "Popular OTT",
-    "view_all_url": "app://ott",
-
-    "items": [
-      {
-        "id": 1,
-        "name": "Netflix",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUusjsF5TTSCxJiDfxyQwF7CXbEnXsqZhOSn_jgp10TD7l2poPhLzVI-A&s=10",
-
-        "playlist_url": "https://yourdomain.com/m3u/netflix.m3u",
-        "cookie_url": "https://yourdomain.com/cookies/netflix.txt",
-        "referer": "https://www.netflix.com/",
-        "origin": "https://www.netflix.com",
-        "accept": "*/*",
-        "user_agent": "Mozilla/5.0",
-
-        "headers": {
-          "Accept": "*/*",
-          "Origin": "https://www.netflix.com",
-          "Referer": "https://www.netflix.com/"
-        }
-      },
-
-      {
-        "id": 2,
-        "name": "Prime Video",
-        "logo": "https://yourdomain.com/logo/primevideo.png",
-
-        "playlist_url": "https://yourdomain.com/m3u/prime.m3u",
-        "cookie_url": "https://yourdomain.com/cookies/prime.txt",
-        "referer": "https://www.primevideo.com/",
-        "origin": "https://www.primevideo.com",
-        "accept": "*/*",
-        "user_agent": "Mozilla/5.0",
-
-        "headers": {
-          "Accept": "*/*",
-          "Origin": "https://www.primevideo.com",
-          "Referer": "https://www.primevideo.com/"
-        }
-      },
-
-      {
-        "id": 3,
-        "name": "Disney+ Hotstar",
-        "logo": "https://yourdomain.com/logo/hotstar.png",
-
-        "playlist_url": "https://yourdomain.com/m3u/hotstar.m3u",
-        "cookie_url": "https://yourdomain.com/cookies/hotstar.txt",
-        "referer": "https://www.hotstar.com/",
-        "origin": "https://www.hotstar.com",
-        "accept": "*/*",
-        "user_agent": "Mozilla/5.0",
-
-        "headers": {
-          "Accept": "*/*",
-          "Origin": "https://www.hotstar.com",
-          "Referer": "https://www.hotstar.com/"
-        }
-      }
-    ]
-  },
-
-  "live_tv_categories": {
-    "title": "Live TV Categories",
-    "view_all_url": "app://live",
-
-    "items": [
-      {
-        "id": 1,
-        "name": "Sports",
-        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUusjsF5TTSCxJiDfxyQwF7CXbEnXsqZhOSn_jgp10TD7l2poPhLzVI-A&s=10",
-
-        "playlist_url": "https://yourdomain.com/m3u/sports.m3u",
-        "cookie_url": "https://yourdomain.com/cookies/sports.txt",
-        "referer": "https://sports.example.com/",
-        "origin": "https://sports.example.com",
-        "accept": "*/*",
-        "user_agent": "Mozilla/5.0",
-
-        "headers": {
-          "Accept": "*/*",
-          "Origin": "https://sports.example.com",
-          "Referer": "https://sports.example.com/"
-        }
-      },
-
-      {
-        "id": 2,
-        "name": "News",
-        "icon": "https://yourdomain.com/icons/news.png",
-
-        "playlist_url": "https://yourdomain.com/m3u/news.m3u",
-        "cookie_url": "https://yourdomain.com/cookies/news.txt",
-        "referer": "https://news.example.com/",
-        "origin": "https://news.example.com",
-        "accept": "*/*",
-        "user_agent": "Mozilla/5.0",
-
-        "headers": {
-          "Accept": "*/*",
-          "Origin": "https://news.example.com",
-          "Referer": "https://news.example.com/"
-        }
-      },
-
-      {
-        "id": 3,
-        "name": "Movies",
-        "icon": "https://yourdomain.com/icons/movies.png",
-
-        "playlist_url": "https://yourdomain.com/m3u/movies.m3u",
-        "cookie_url": "https://yourdomain.com/cookies/movies.txt",
-        "referer": "https://movies.example.com/",
-        "origin": "https://movies.example.com",
-        "accept": "*/*",
-        "user_agent": "Mozilla/5.0",
-
-        "headers": {
-          "Accept": "*/*",
-          "Origin": "https://movies.example.com",
-          "Referer": "https://movies.example.com/"
-        }
-      },
-
-      {
-        "id": 4,
-        "name": "Kids",
-        "icon": "https://yourdomain.com/icons/kids.png",
-
-        "playlist_url": "https://yourdomain.com/m3u/kids.m3u",
-        "cookie_url": "https://yourdomain.com/cookies/kids.txt",
-        "referer": "https://kids.example.com/",
-        "origin": "https://kids.example.com",
-        "accept": "*/*",
-        "user_agent": "Mozilla/5.0",
-
-        "headers": {
-          "Accept": "*/*",
-          "Origin": "https://kids.example.com",
-          "Referer": "https://kids.example.com/"
-        }
-      }
-    ]
-  },
-
-  "latest_movies": {
-    "title": "Latest Movies",
-    "view_all_url": "app://movies",
-
-    "items": [
-      {
-        "id": 1,
-        "title": "Mission Impossible",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUusjsF5TTSCxJiDfxyQwF7CXbEnXsqZhOSn_jgp10TD7l2poPhLzVI-A&s=10",
-        "backdrop": "https://yourdomain.com/backdrops/mission.jpg",
-        "video_url": "https://yourdomain.com/video/mission.m3u8",
-        "rating": "8.2",
-        "year": "2025",
-        "genre": "Action",
-        "quality": "4K"
-      },
-      {
-        "id": 2,
-        "title": "Spider-Man",
-        "poster": "https://yourdomain.com/posters/spiderman.jpg",
-        "backdrop": "https://yourdomain.com/backdrops/spiderman.jpg",
-        "video_url": "https://yourdomain.com/video/spiderman.m3u8",
-        "rating": "8.6",
-        "year": "2024",
-        "genre": "Adventure",
-        "quality": "4K"
-      }
-    ]
-  },
-
-  "ads": {
-    "banner": true,
-    "native": true,
-    "interstitial": true,
-    "reward": false
-  },
-
-  "social": {
-    "telegram": "https://t.me/yourchannel",
-    "youtube": "https://youtube.com/@yourchannel",
-    "website": "https://yourwebsite.com"
-  }
+  "livetv_categories": [
+    {
+      "id": 101,
+      "name": "SPORTS LIVE",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/sports.png",
+      "playlist_url": "https://example.com/sports_live.m3u",
+      "cookie_url": "https://example.com/api/get_category_cookies?id=101"
+    },
+    {
+      "id": 102,
+      "name": "NEWS LIVE",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/news.png",
+      "playlist_url": "https://example.com/news_live.m3u",
+      "cookie_url": ""
+    },
+    {
+      "id": 103,
+      "name": "GLOBAL CHANNELS",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/global.png",
+      "playlist_url": "https://example.com/global_channels.m3u",
+      "cookie_url": ""
+    },
+    {
+      "id": 104,
+      "name": "KIDS LIVE",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/kids.png",
+      "playlist_url": "https://example.com/kids_live.m3u",
+      "cookie_url": "https://example.com/api/get_category_cookies?id=104"
+    }
+  ],
+  "movies_categories": [
+    {
+      "id": 201,
+      "name": "ACTION MOVIES",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/action.png",
+      "playlist_url": "https://example.com/action_movies.m3u",
+      "cookie_url": ""
+    },
+    {
+      "id": 202,
+      "name": "COMEDY MOVIES",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/comedy.png",
+      "playlist_url": "https://example.com/comedy_movies.m3u",
+      "cookie_url": ""
+    },
+    {
+      "id": 203,
+      "name": "THRILLER / HORROR",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/horror.png",
+      "playlist_url": "https://example.com/horror_movies.m3u",
+      "cookie_url": ""
+    },
+    {
+      "id": 204,
+      "name": "DRAMA MOVIES",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/drama.png",
+      "playlist_url": "https://example.com/drama_movies.m3u",
+      "cookie_url": ""
+    }
+  ]
 }
