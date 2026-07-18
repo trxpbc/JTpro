@@ -42,7 +42,7 @@
       "name": "GLOBAL CHANNELS",
       "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/global.png",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
-      "cookie_url": ""
+      "cookie_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/cks.json"
     },
     {
       "id": 104,
