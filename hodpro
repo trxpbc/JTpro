@@ -50,7 +50,21 @@
       "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/kids.png",
       "playlist_url": "https://example.com/kids_live.m3u",
       "cookie_url": "https://example.com/api/get_category_cookies?id=104"
-    }
+    },
+    {
+      "id": 5,
+      "name": "KIDS LIVE",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/kids.png",
+      "playlist_url": "https://example.com/kids_live.m3u",
+      "cookie_url": "https://example.com/api/get_category_cookies?id=104"
+    },
+    {
+      "id": 6,
+      "name": "Star Sports TV",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNz7G_J5iJAA8cyo777vVhplS0OVa4Cw49Mr9hBFqnFN_rpSGG__PXtVV7ERJNYHb-4ADvwLPD08deBcvAFCtgzzkehpBkN0UAtb5LFHjNHTqlSRSoh3o-kN_b_lfawKT3T-sD2kw-G8-9QVVGG5h6VoYWDlkTKb9pnC7i5xfsEKCE9QweanX_SaPZbKI/s1600/Star%20Sports%20TV.jpeg",
+      "playlist_url": "https://sayan-json-3.pages.dev/Data/Channels.json",
+      "cookie_url": ""
+    },
   ],
   "movies_categories": [
     {
