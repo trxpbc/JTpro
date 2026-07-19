@@ -25,10 +25,10 @@
   "livetv_categories": [
     {
       "id": 1,
-      "name": "Sony LIV",
+      "name": "JioTV",
       "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKVHZLNKVLho_dWJLC9pnt-Dc0F0xW3jn2vAPLTuCox-WXdxSQR22STM8&s=10",
-      "playlist_url": "https://raw.githubusercontent.com/trxpbc/vtpi/refs/heads/main/SlvSD",
-      "cookie_url": ""
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
+      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
     {
       "id": 2,
@@ -39,30 +39,86 @@
     },
     {
       "id": 3,
-      "name": "GLOBAL CHANNELS",
+      "name": "JioTV Old",
       "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/global.png",
-      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/jtvold",
       "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
     {
       "id": 4,
-      "name": "KIDS LIVE",
-      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/kids.png",
-      "playlist_url": "https://example.com/kids_live.m3u",
-      "cookie_url": "https://example.com/api/get_category_cookies?id=104"
+      "name": "Voot TV",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/global.png",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/JTpro/refs/heads/main/StrTVHD",
+      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
     {
       "id": 5,
-      "name": "KIDS LIVE",
-      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/kids.png",
-      "playlist_url": "https://example.com/kids_live.m3u",
-      "cookie_url": "https://example.com/api/get_category_cookies?id=104"
+      "name": "Star TV",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/global.png",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/JTpro/refs/heads/main/StrTVHD",
+      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
     {
       "id": 6,
+      "name": "ZEE 5 SD",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/global.png",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Z5so",
+      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
+    },
+    {
+      "id": 7,
+      "name": "ZEE 5 HD",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/global.png",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/vtpi/refs/heads/main/Ze5hd",
+      "cookie_url": ""
+    },
+    {
+      "id": 8,
+      "name": "Sony LIV SD",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/global.png",
+      "playlist_url": "https://raw.githubusercontent.com/ProTube/IPTV/refs/heads/maint/slivd",
+      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
+    },
+    {
+      "id": 9,
+      "name": "Sony LIV HD",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/global.png",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/vtpi/refs/heads/main/SlvSD",
+      "cookie_url": ""
+    },
+    {
+      "id": 10,
+      "name": "Kids TV",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/kids.png",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/vtpi/refs/heads/main/Kids",
+      "cookie_url": ""
+    },
+    {
+      "id": 11,
+      "name": "Anime TV",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/kids.png",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/JTpro/refs/heads/main/anm",
+      "cookie_url": ""
+    },
+    {
+      "id": 12,
+      "name": "Fifa Sports",
+      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/kids.png",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/jtv/refs/heads/main/fifsprt",
+      "cookie_url": "4"
+    },
+    {
+      "id": 13,
       "name": "Star Sports TV",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNz7G_J5iJAA8cyo777vVhplS0OVa4Cw49Mr9hBFqnFN_rpSGG__PXtVV7ERJNYHb-4ADvwLPD08deBcvAFCtgzzkehpBkN0UAtb5LFHjNHTqlSRSoh3o-kN_b_lfawKT3T-sD2kw-G8-9QVVGG5h6VoYWDlkTKb9pnC7i5xfsEKCE9QweanX_SaPZbKI/s1600/Star%20Sports%20TV.jpeg",
       "playlist_url": "https://sayan-json-3.pages.dev/Data/Channels.json",
+      "cookie_url": ""
+    },
+    {
+      "id": 14,
+      "name": "Star SportsTV",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNz7G_J5iJAA8cyo777vVhplS0OVa4Cw49Mr9hBFqnFN_rpSGG__PXtVV7ERJNYHb-4ADvwLPD08deBcvAFCtgzzkehpBkN0UAtb5LFHjNHTqlSRSoh3o-kN_b_lfawKT3T-sD2kw-G8-9QVVGG5h6VoYWDlkTKb9pnC7i5xfsEKCE9QweanX_SaPZbKI/s1600/Star%20Sports%20TV.jpeg",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Sprts.json",
       "cookie_url": ""
     }
   ],
