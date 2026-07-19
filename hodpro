@@ -24,28 +24,28 @@
   ],
   "livetv_categories": [
     {
-      "id": 101,
+      "id": 1,
       "name": "Sony LIV",
       "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKVHZLNKVLho_dWJLC9pnt-Dc0F0xW3jn2vAPLTuCox-WXdxSQR22STM8&s=10",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/vtpi/refs/heads/main/SlvSD",
       "cookie_url": ""
     },
     {
-      "id": 102,
+      "id": 2,
       "name": "JioTV+",
       "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/news.png",
       "playlist_url": "https://pllive.bmera5952.workers.dev/",
       "cookie_url": ""
     },
     {
-      "id": 103,
+      "id": 3,
       "name": "GLOBAL CHANNELS",
       "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/global.png",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
       "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
     {
-      "id": 104,
+      "id": 4,
       "name": "KIDS LIVE",
       "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/kids.png",
       "playlist_url": "https://example.com/kids_live.m3u",
