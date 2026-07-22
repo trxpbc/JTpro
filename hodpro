@@ -2,23 +2,44 @@
   "banners": [
     {
       "id": 1,
-      "title": "Welcome to Premium IPTV",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5XWMYOvHT6sPGv86dMu4NvNeYfv7doiszJzSYzSIiJA&s=10",
+      "title": "Blockbuster Movies HD",
+      "image_url": "https://qqcdnpictest.mxplay.com/pic/692f54a8d49d94d7899493111d782ebc/en/16x9/1600x900/test_pic1784172924025.webp",
       "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-      "cookie_url": "https://example.com/api/get_banner_cookies?id=1"
+      "cookie_url": ""
     },
     {
       "id": 2,
-      "title": "Live Sports Season",
-      "image_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/banner2.jpg",
-      "stream_url": "https://example.com/live/sports_special.m3u8",
-      "cookie_url": "https://example.com/api/get_banner_cookies?id=2"
+      "title": "Blockbuster Movies HD",
+      "image_url": "https://qqcdnpictest.mxplay.com/pic/4d0a13d4a55d3d00504e185d9e13aa3b/en/16x9/1600x900/test_pic1782286954214.webp",
+      "stream_url": "",
+      "cookie_url": ""
     },
     {
       "id": 3,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/banner3.jpg",
-      "stream_url": "https://example.com/movies/feature_film.m3u8",
+      "image_url": "https://qqcdnpictest.mxplay.com/pic/afea12f617c06d0e8886597a60586660/en/16x9/1600x900/test_pic1783505802596.webp",
+      "stream_url": "",
+      "cookie_url": ""
+    },
+    {
+      "id": 4,
+      "title": "Blockbuster Movies HD",
+      "image_url": "https://qqcdnpictest.mxplay.com/pic/de9f32152190b48dd3c02475725925a2/en/16x9/1600x900/test_pic1777013408495.webp",
+      "stream_url": "",
+      "cookie_url": ""
+    },
+    {
+      "id": 5,
+      "title": "Blockbuster Movies HD",
+      "image_url": "https://qqcdnpictest.mxplay.com/pic/1047c0314cddf3a4624d902d5f4eb697/en/16x9/1600x900/test_pic1781776704964.webp",
+      "stream_url": "",
+      "cookie_url": ""
+    },
+    {
+      "id": 6,
+      "title": "Blockbuster Movies HD",
+      "image_url": "https://qqcdnpictest.mxplay.com/pic/bd4139e57d4d2535eeae13a3f0af9c6d/en/16x9/1600x900/test_pic1781516437202.webp",
+      "stream_url": "",
       "cookie_url": ""
     }
   ],
