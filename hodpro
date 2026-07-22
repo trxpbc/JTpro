@@ -47,7 +47,7 @@
     {
       "id": 1,
       "name": "JioTV",
-      "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKVHZLNKVLho_dWJLC9pnt-Dc0F0xW3jn2vAPLTuCox-WXdxSQR22STM8&s=10",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-lXLhwrTzo3Y2wLC_qbctEq-0wtPdVFFQc3J7ZvShC3iOAuHf9ukDdsCCFwIOJic8-i19Id4TgpPFfyjxak9kHHBls7xGteN3D5_07e0z-DemGdFKgPzpEngzxd8tJCpxcWSdcFi4swsSXhuB6lAdaKTMfgkiQGAH4iuaPYTrISdIkTcq7LrL08pEVw/s1600/20260723_011938.png",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
       "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
