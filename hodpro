@@ -3,42 +3,49 @@
     {
       "id": 1,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://qqcdnpictest.mxplay.com/pic/692f54a8d49d94d7899493111d782ebc/en/16x9/1600x900/test_pic1784172924025.webp",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNGE2NmNkZTctYjM3OC00Y2YyLWFhYjgtNjgwZWZiNWZlZDMxXkEyXkFqcGc@._V1_.jpg",
       "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
       "cookie_url": ""
     },
     {
       "id": 2,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://qqcdnpictest.mxplay.com/pic/4d0a13d4a55d3d00504e185d9e13aa3b/en/16x9/1600x900/test_pic1782286954214.webp",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZDk0YzdmOTAtNTFmMi00NTQ0LThhMTAtNGY1NDRkNmIyODdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "stream_url": "",
       "cookie_url": ""
     },
     {
       "id": 3,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://qqcdnpictest.mxplay.com/pic/afea12f617c06d0e8886597a60586660/en/16x9/1600x900/test_pic1783505802596.webp",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BN2NhYzE1YTUtNDA0Yi00ZjhlLWEyMzUtN2UxMzkzZTdkMDRlXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
       "stream_url": "",
       "cookie_url": ""
     },
     {
       "id": 4,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://qqcdnpictest.mxplay.com/pic/de9f32152190b48dd3c02475725925a2/en/16x9/1600x900/test_pic1777013408495.webp",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZmEwNTU4MzEtY2Y4Ni00ZWRmLThhMGMtMDE5MTZmMDIzMGVjXkEyXkFqcGc@._V1_.jpg",
       "stream_url": "",
       "cookie_url": ""
     },
     {
       "id": 5,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://qqcdnpictest.mxplay.com/pic/1047c0314cddf3a4624d902d5f4eb697/en/16x9/1600x900/test_pic1781776704964.webp",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYTY4MGVmOGYtMDdlZC00ODM0LWIyMWMtMTkxNWMzMTczOGUwXkEyXkFqcGc@._V1_.jpg",
       "stream_url": "",
       "cookie_url": ""
     },
     {
       "id": 6,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://qqcdnpictest.mxplay.com/pic/bd4139e57d4d2535eeae13a3f0af9c6d/en/16x9/1600x900/test_pic1781516437202.webp",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjg0ODBhZDMtZTc2OC00NWZiLTliYzgtOGU1MDAxMzhkNDhiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "stream_url": "",
+      "cookie_url": ""
+    },
+    {
+      "id": 7,
+      "title": "Blockbuster Movies HD",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZjg5OWI2MTgtZjcyMS00MTcwLTk2ZDQtZDcwMmI4NjI4MWVhXkEyXkFqcGc@._V1_.jpg",
       "stream_url": "",
       "cookie_url": ""
     }
@@ -47,99 +54,43 @@
     {
       "id": 1,
       "name": "JioTV",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-lXLhwrTzo3Y2wLC_qbctEq-0wtPdVFFQc3J7ZvShC3iOAuHf9ukDdsCCFwIOJic8-i19Id4TgpPFfyjxak9kHHBls7xGteN3D5_07e0z-DemGdFKgPzpEngzxd8tJCpxcWSdcFi4swsSXhuB6lAdaKTMfgkiQGAH4iuaPYTrISdIkTcq7LrL08pEVw/s1600/20260723_011938.png",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFy3amxhg5610xA0DxRFsRKLKM6z0ouZUNfDAHyQfxIDqBB2kZVyUcsTyaKoWznuzobW4XmkBpjCJVgoeqFj9-MnHvk3d4e97bLbzYWaWXJ8Czt0xY48UU-3VHaSGBZ6AYbdlf3NOxs-ag2VqmubAiDJv20t7S2TiuJypaWwFDC8gvsNitc4RbtWnLf3w/s1600/jiotvlogo-ct.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
       "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
     {
       "id": 2,
-      "name": "JioTV+",
-      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/news.png",
+      "name": "Jio Hotstar",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUyMf6MGJCGqDjcOqVUadCONlyjBcrGWM8Ct4EhWEqC0aeS1G-3uts1KeYvh1LrrEmadJoesJj2fRqc8pTUbFbZeVpwq_Rcn-uNXUtTZjWHaczvDe5PtSzxhVcvrKlhIp6EfNlz-39J7Dj_Sr_m9G3GBzFeswpjoHHeDcfdPz0bXEaFmegfj9EormruNU/s1600/jiohotstarlogo-ct.jpeg",
       "playlist_url": "https://pllive.bmera5952.workers.dev/",
       "cookie_url": ""
     },
     {
       "id": 3,
-      "name": "JioTV Old",
-      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/global.png",
-      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/jtvold",
+      "name": "Voot TV",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaZdCJasZXqS1WcO7GM5T7pA3x7IMPl-gBPIUHWZaMnwIgko68QjZvSIi-I8gbWNsgZfF_Xwi6oP8DdYwVepG88vtB1ZF_kQ0sUW-DgFEVJEZlMwBqMGaYfDrNfaojMcWyOG-UXwZ2tqrKUfVOJvnEtoMavfcWw15CUGm2chgp6m2P3jNrHa9PapPSqgw/s1600/vootlogo-ct.jpeg",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/JTpro/refs/heads/main/StrTVHD",
       "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
     {
       "id": 4,
-      "name": "Voot TV",
-      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/global.png",
-      "playlist_url": "https://raw.githubusercontent.com/trxpbc/JTpro/refs/heads/main/StrTVHD",
-      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
-    },
-    {
-      "id": 5,
-      "name": "Star TV",
-      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/global.png",
-      "playlist_url": "https://raw.githubusercontent.com/trxpbc/JTpro/refs/heads/main/StrTVHD",
-      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
-    },
-    {
-      "id": 6,
-      "name": "ZEE 5 SD",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi80wT3nWqHpGdRPjuLwGOl7vdejOsvBR8nowmuwMF_SFATzGeGkEbyYkk8Ft_gZRegl97RXtmEr9fPr3LpGH5dX5bhyuIYr8p7mYmuJO3pM9Ug4WGULFuvGrToVk8FkKa8YbQy7qdQhLAtaVhqaaziaQSXDrcwx38nzk3PkRUybpjnrj316mLxVCPfITE/s1600/20260723_012628.png",
+      "name": "ZEE 5",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi279CvJH-SnTVSIreBJ66Na_JPS8PUb4rHxx4UxF5xSpsuJ_TvxdWrZaPd5W1YrCUE4VH2rrQXqKd_Vsr5o3QMskDfSD6xrIe0lnbnzfk1mC0m-gfotcZYBvUpq5fiKmyK4KT5VEqZ9kAN3WqkcEYXFWOaFOO4yk8Xo-pEFZiEsnsoqVflTlrRx_dIung/s1600/zee5logo-ct.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Z5so",
       "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
     {
-      "id": 7,
-      "name": "ZEE 5 HD",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVWeaYEalZWgWGsXPSrf1hJm26f_RjWR7hnpKFY0qkLaOcFGONptkheU55OgqFTNshXafGsk-xNN9_Y9FTkG7TIr4f9EHIHWJ7Tey8j7PKsYrOocNI018b5gT6KkC7S3EMJXBLPI3wQdxio2br9ij9dQnNKyYEEBuxJer3clBxYOFkrM91-hSGltvJj9Q/s1600/20260723_012607.png",
-      "playlist_url": "https://raw.githubusercontent.com/trxpbc/vtpi/refs/heads/main/Ze5hd",
-      "cookie_url": ""
-    },
-    {
-      "id": 8,
-      "name": "Sony LIV SD",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-lXLhwrTzo3Y2wLC_qbctEq-0wtPdVFFQc3J7ZvShC3iOAuHf9ukDdsCCFwIOJic8-i19Id4TgpPFfyjxak9kHHBls7xGteN3D5_07e0z-DemGdFKgPzpEngzxd8tJCpxcWSdcFi4swsSXhuB6lAdaKTMfgkiQGAH4iuaPYTrISdIkTcq7LrL08pEVw/s1600/20260723_011938.png",
+      "id": 5,
+      "name": "Sony LIV",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7LrHpHrcusxxkhq6OtRu0D7WaQBG0nZwRcKxHCjngVMhTIm5-ZWa8YFr1tibuAT7AyWRJwoRoRUmMSIZZxA6jig9HXAcXW-LcAJfsnBiubpAaVoThyphenhyphendkb-Ion1n8xeQYo02n87RdiZ-O8TStZLTZjXaaOiqWqffpGPHKTWU-u48PU5uoopRzHnzFY_o4/s1600/sonylivlogo-ct.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/ProTube/IPTV/refs/heads/maint/slivd",
       "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
     {
-      "id": 9,
-      "name": "Sony LIV HD",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_Qn1EwguEzPO2tbxW0zit2PGUVh-O9a1GCXSyXugmkT3zMzDHZCtIK9Kx1cF_xIgVyT43s3KplOvsw_6TwMseHrbgMQsbbE-5tIxFM40CzPxhto8nXS6lzw_gtD7XaxZvgGBZO0_TJz9Ik86SD4VDnlqsIvR9EFP3NCJVwrbX1tij5PYj9inW3dSl5Fk/s1600/20260723_011956.png",
-      "playlist_url": "https://raw.githubusercontent.com/trxpbc/vtpi/refs/heads/main/SlvSD",
-      "cookie_url": ""
-    },
-    {
-      "id": 10,
-      "name": "Kids TV",
-      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/kids.png",
-      "playlist_url": "https://raw.githubusercontent.com/trxpbc/vtpi/refs/heads/main/Kids",
-      "cookie_url": ""
-    },
-    {
-      "id": 11,
-      "name": "Anime TV",
-      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/kids.png",
+      "id": 6,
+      "name": "Jio Cinema",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-cXv9F0S9mh0F94JMJpgyHUZKLG_8dh69HLvydnfI6f1Q9D1m5El3qAciML_qiNh0odyKh55WqzIkTwJafj8wYPgdlTujXbjQTwOLSW1kC2Ana6Z69KfoXsFonF9TQqF9lHtvFZH-G6tl3hF6x_1PTykcpc0sbQVUQEey_RRLV49EMr0zLngtcEygO9Q/s1600/jiocinemalogo-ct.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/JTpro/refs/heads/main/anm",
-      "cookie_url": ""
-    },
-    {
-      "id": 12,
-      "name": "Fifa Sports",
-      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/kids.png",
-      "playlist_url": "https://raw.githubusercontent.com/trxpbc/jtv/refs/heads/main/fifsprt",
-      "cookie_url": "4"
-    },
-    {
-      "id": 13,
-      "name": "Star Sports TV",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNz7G_J5iJAA8cyo777vVhplS0OVa4Cw49Mr9hBFqnFN_rpSGG__PXtVV7ERJNYHb-4ADvwLPD08deBcvAFCtgzzkehpBkN0UAtb5LFHjNHTqlSRSoh3o-kN_b_lfawKT3T-sD2kw-G8-9QVVGG5h6VoYWDlkTKb9pnC7i5xfsEKCE9QweanX_SaPZbKI/s1600/Star%20Sports%20TV.jpeg",
-      "playlist_url": "https://sayan-json-3.pages.dev/Data/Channels.json",
-      "cookie_url": ""
-    },
-    {
-      "id": 14,
-      "name": "Star SportsTV",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNz7G_J5iJAA8cyo777vVhplS0OVa4Cw49Mr9hBFqnFN_rpSGG__PXtVV7ERJNYHb-4ADvwLPD08deBcvAFCtgzzkehpBkN0UAtb5LFHjNHTqlSRSoh3o-kN_b_lfawKT3T-sD2kw-G8-9QVVGG5h6VoYWDlkTKb9pnC7i5xfsEKCE9QweanX_SaPZbKI/s1600/Star%20Sports%20TV.jpeg",
-      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Sprts.json",
       "cookie_url": ""
     }
   ],
