@@ -96,24 +96,45 @@
   ],
   "movies_categories": [
     {
-      "id": 201,
+      "id": 1,
       "name": "Netflix",
       "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAHhucspvBj4f3rl2Jitdh05jXftkukOiokCYSzhpR3ullH-XP_Q8yVxox&s=10",
       "playlist_url": "https://example.com/action_movies.m3u",
       "cookie_url": ""
     },
     {
-      "id": 202,
+      "id": 2,
       "name": "Prime Video",
       "icon_url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2023/03/amazon-prime-video-logo.jpg",
       "playlist_url": "https://example.com/comedy_movies.m3u",
       "cookie_url": ""
     },
     {
-      "id": 203,
+      "id": 3,
       "name": "MX Player",
       "icon_url": "https://cf-images.assettype.com/cinemaexpress%2F2026-05-07%2F29z8ktru%2Famazonmxplayer.jpg",
       "playlist_url": "https://example.com/horror_movies.m3u",
+      "cookie_url": ""
+    },
+    {
+      "id": 4,
+      "name": "Crunchyroll",
+      "icon_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/crunchyroll-white-logo-on-orange-background.jpg",
+      "playlist_url": "https://example.com/comedy_movies.m3u",
+      "cookie_url": ""
+    },
+    {
+      "id": 5,
+      "name": "Disney+",
+      "icon_url": "https://cdn.dribbble.com/userupload/23805233/file/original-3fb3faf53b59f4c4712ca55c7869d981.jpg",
+      "playlist_url": "https://example.com/comedy_movies.m3u",
+      "cookie_url": ""
+    },
+    {
+      "id": 5,
+      "name": "HBO Max",
+      "icon_url": "https://www.hbomaxpartners.com/images/hbo_max_share_image.png",
+      "playlist_url": "https://example.com/comedy_movies.m3u",
       "cookie_url": ""
     }
   ]
