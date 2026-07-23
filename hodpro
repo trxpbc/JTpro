@@ -97,30 +97,23 @@
   "movies_categories": [
     {
       "id": 201,
-      "name": "ACTION MOVIES",
-      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/action.png",
+      "name": "Netflix",
+      "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAHhucspvBj4f3rl2Jitdh05jXftkukOiokCYSzhpR3ullH-XP_Q8yVxox&s=10",
       "playlist_url": "https://example.com/action_movies.m3u",
       "cookie_url": ""
     },
     {
       "id": 202,
-      "name": "COMEDY MOVIES",
-      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/comedy.png",
+      "name": "Prime Video",
+      "icon_url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2023/03/amazon-prime-video-logo.jpg",
       "playlist_url": "https://example.com/comedy_movies.m3u",
       "cookie_url": ""
     },
     {
       "id": 203,
-      "name": "THRILLER / HORROR",
-      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/horror.png",
+      "name": "MX Player",
+      "icon_url": "https://cf-images.assettype.com/cinemaexpress%2F2026-05-07%2F29z8ktru%2Famazonmxplayer.jpg",
       "playlist_url": "https://example.com/horror_movies.m3u",
-      "cookie_url": ""
-    },
-    {
-      "id": 204,
-      "name": "DRAMA MOVIES",
-      "icon_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/drama.png",
-      "playlist_url": "https://example.com/drama_movies.m3u",
       "cookie_url": ""
     }
   ]
