@@ -132,8 +132,8 @@
     },
     {
       "id": 5,
-      "name": "HBO Max",
-      "icon_url": "https://www.hbomaxpartners.com/images/hbo_max_share_image.png",
+      "name": "Zee5",
+      "icon_url": "https://www.bizasialive.com/wp-content/uploads/2025/06/z5001.jpg",
       "playlist_url": "https://example.com/comedy_movies.m3u",
       "cookie_url": ""
     }
