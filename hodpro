@@ -99,7 +99,7 @@
       "id": 1,
       "name": "Netflix",
       "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAHhucspvBj4f3rl2Jitdh05jXftkukOiokCYSzhpR3ullH-XP_Q8yVxox&s=10",
-      "playlist_url": "https://example.com/action_movies.m3u",
+      "playlist_url": "https://pllive.bmera5952.workers.dev/",
       "cookie_url": ""
     },
     {
