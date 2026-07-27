@@ -54,7 +54,49 @@
     {
       "id": 1,
       "name": "JioTV",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFy3amxhg5610xA0DxRFsRKLKM6z0ouZUNfDAHyQfxIDqBB2kZVyUcsTyaKoWznuzobW4XmkBpjCJVgoeqFj9-MnHvk3d4e97bLbzYWaWXJ8Czt0xY48UU-3VHaSGBZ6AYbdlf3NOxs-ag2VqmubAiDJv20t7S2TiuJypaWwFDC8gvsNitc4RbtWnLf3w/s1600/jiotvlogo-ct.jpeg",
+      "icon_url": "https://play-lh.googleusercontent.com/sHTy0vMDXTiCN0IuBlLGjjh3D_ahVgiWRcSfzEiYEoBrUN0aitN8D6im0mQXAhOhdXbVtXie3y7JS7mJoCCGZXk",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
+      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
+    },
+    {
+      "id": 2,
+      "name": "JioTV+",
+      "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
+      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
+    },
+    {
+      "id": 3,
+      "name": "JioHotstar",
+      "icon_url": "https://www.livemint.com/lm-img/img/2025/02/14/optimize/Screenshot_2025-02-14_065533_1739496378365_1739517681557.png",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
+      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
+    },
+    {
+      "id": 4,
+      "name": "SonyLIV",
+      "icon_url": "https://ottking.in/wp-content/uploads/2022/12/sony-logo-768x768.jpg",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
+      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
+    },
+    {
+      "id": 5,
+      "name": "Zee5",
+      "icon_url": "https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
+      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
+    },
+    {
+      "id": 6,
+      "name": "Voot",
+      "icon_url": "https://play-lh.googleusercontent.com/InSOp5thAKQxms_ZZfRVjefSQFX2_WDTR1B03C3zcmxftJUkOWC2c__ciwfFLwxT2G6aRQmjfMV28-tnV6dE0w",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
+      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
+    },
+    {
+      "id": 7,
+      "name": "JioCinema",
+      "icon_url": "https://static.thearcweb.com/images/PROD/PROD-594ff280-6071-4cd5-85c0-d8be93abbfdb.png",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
       "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     }
