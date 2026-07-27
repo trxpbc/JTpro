@@ -50,6 +50,15 @@
       "cookie_url": ""
     }
   ],
+  "browse_livetv_apps": [
+    {
+      "id": 1,
+      "name": "JioTV",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFy3amxhg5610xA0DxRFsRKLKM6z0ouZUNfDAHyQfxIDqBB2kZVyUcsTyaKoWznuzobW4XmkBpjCJVgoeqFj9-MnHvk3d4e97bLbzYWaWXJ8Czt0xY48UU-3VHaSGBZ6AYbdlf3NOxs-ag2VqmubAiDJv20t7S2TiuJypaWwFDC8gvsNitc4RbtWnLf3w/s1600/jiotvlogo-ct.jpeg",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
+      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
+    }
+  ],
   "livetv_categories": [
     {
       "id": 1,
@@ -94,6 +103,15 @@
       "cookie_url": ""
     }
   ],
+  "browse_movie_apps": [
+    {
+      "id": 1,
+      "name": "JioTV",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFy3amxhg5610xA0DxRFsRKLKM6z0ouZUNfDAHyQfxIDqBB2kZVyUcsTyaKoWznuzobW4XmkBpjCJVgoeqFj9-MnHvk3d4e97bLbzYWaWXJ8Czt0xY48UU-3VHaSGBZ6AYbdlf3NOxs-ag2VqmubAiDJv20t7S2TiuJypaWwFDC8gvsNitc4RbtWnLf3w/s1600/jiotvlogo-ct.jpeg",
+      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
+      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
+    }
+  ],
   "movies_categories": [
     {
       "id": 1,
@@ -131,7 +149,7 @@
       "cookie_url": ""
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Zee5",
       "icon_url": "https://www.bizasialive.com/wp-content/uploads/2025/06/z5001.jpg",
       "playlist_url": "https://example.com/comedy_movies.m3u",
