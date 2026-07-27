@@ -149,42 +149,42 @@
     {
       "id": 1,
       "name": "Netflix",
-      "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAHhucspvBj4f3rl2Jitdh05jXftkukOiokCYSzhpR3ullH-XP_Q8yVxox&s=10",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb-8sszomB_Dp0_SM5-VW1mKV2cjAk_iekkWiYUqEMF_GEzmBANQesO5Mm-t8VMvm4Sw70UeeNwu_AnT1hsN_RLd91OXNbKJfcsWZzlQXV0P4CptXibElmZveW392wKNB5_edWJvWXCzSFizspUl51hBAJrR3Q3xIXM7juJbrisHIZiA_dO0Hq9q11YL1o/s1600/netflix-logo.png",
       "playlist_url": "https://pllive.bmera5952.workers.dev/",
       "cookie_url": ""
     },
     {
       "id": 2,
       "name": "Prime Video",
-      "icon_url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2023/03/amazon-prime-video-logo.jpg",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg47RgDH9DXrSWLbTlQZtxNlmPmuyzwtgIn0_ai81LCFZ0BOjHqbg8jAQZlTaEigH-zhC7JBWqd-qCcT_eZgRxxp5HA3kt_2j-MoGb-BMzDl_ta167QXB_1LBp9wr5OYxmEDiSmEodn1mLWMB27cuXk8nSKuj8yACyKJLXT1V1d2MbK5nkXqpj9IIUM8T4J/s1600/primevideo-logo.jpg",
       "playlist_url": "https://example.com/comedy_movies.m3u",
       "cookie_url": ""
     },
     {
       "id": 3,
       "name": "MX Player",
-      "icon_url": "https://cf-images.assettype.com/cinemaexpress%2F2026-05-07%2F29z8ktru%2Famazonmxplayer.jpg",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6pmUqs9ciQM7iPJ72pkGloBvvZ6vGODVO45bGtcVuhQvZxt_kajAW8HC9SSR_EnF0WFCVZXceW6UtE98f76fLUbftEquRJTx1wM30cTYbvkYdTPEmZ1J_vp0l8VvOhyphenhyphen4uxMj3qCrSPDiw-G5XK-MyXdfy5EegMvTWYJFwWetsyiDsKL-AUoxQM7AcMHEQ/s1600/mxplayer-logo.jpg",
       "playlist_url": "https://example.com/horror_movies.m3u",
       "cookie_url": ""
     },
     {
       "id": 4,
       "name": "Crunchyroll",
-      "icon_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/crunchyroll-white-logo-on-orange-background.jpg",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9XQalybQ4sieBp__ESw0jxC7nJNLOqFuOts0XGPlAojR5tilcLfneobaoDAMAQqVFIkkqCH5krzMFtC2ICOWkpzfq4Uh3sPlGxBtRb-DZ71lE1RMZqGYUQBnrQrRr1gvdxtC_AA5JQuwqbDeQa1FTna78kAsG_C_UuO7GGu6ZA5fz_1_WGtTI2D8WnIV/s1600/cruncrunchyroll-logo.jpg",
       "playlist_url": "https://example.com/comedy_movies.m3u",
       "cookie_url": ""
     },
     {
       "id": 5,
       "name": "Disney+",
-      "icon_url": "https://cdn.dribbble.com/userupload/23805233/file/original-3fb3faf53b59f4c4712ca55c7869d981.jpg",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv2tiPDmIEG59ylTLqMh3H7MO1WzJV-xQm22Zo5YgYJT9Cq1hwWRh5Ige9Emvy-hIDRNrXbxnm9jXUuadCVDZx2V_ISOSE4lBlBwaDjfvbYRjZbNguFX9iOIbPuvsfviS0XlFcB3Tz-_eQVLUmzbpMZ1qbb2xUCOWZ3ozAyBU6eKVhURETj0kOkE0-0yqw/s1600/disneyplus-logo.jpg",
       "playlist_url": "https://example.com/comedy_movies.m3u",
       "cookie_url": ""
     },
     {
       "id": 6,
       "name": "Zee5",
-      "icon_url": "https://www.bizasialive.com/wp-content/uploads/2025/06/z5001.jpg",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaKcfLLcYBE6z2W09R45yz_-af4sKC4NMeLlhyPkfuj6HArHCh-yhj-kllrbYk9iyfTS0wviVuAQHV8nZu1SjxlBxD2Hp5r9Go9R06g2eskKOl6sEeFY9FhMJPsuoWFdubA6eVdnovv2nE2h4ABGZANTbre_jh74gioAKIxZh5T-sGr5mTKogaMAmfi-p-/s1600/zee5movies-logo.jpg",
       "playlist_url": "https://example.com/comedy_movies.m3u",
       "cookie_url": ""
     }
