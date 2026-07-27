@@ -148,10 +148,45 @@
   "browse_movie_apps": [
     {
       "id": 1,
-      "name": "JioTV",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFy3amxhg5610xA0DxRFsRKLKM6z0ouZUNfDAHyQfxIDqBB2kZVyUcsTyaKoWznuzobW4XmkBpjCJVgoeqFj9-MnHvk3d4e97bLbzYWaWXJ8Czt0xY48UU-3VHaSGBZ6AYbdlf3NOxs-ag2VqmubAiDJv20t7S2TiuJypaWwFDC8gvsNitc4RbtWnLf3w/s1600/jiotvlogo-ct.jpeg",
-      "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
-      "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
+      "name": "Netflix",
+      "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAHhucspvBj4f3rl2Jitdh05jXftkukOiokCYSzhpR3ullH-XP_Q8yVxox&s=10",
+      "playlist_url": "https://pllive.bmera5952.workers.dev/",
+      "cookie_url": ""
+    },
+    {
+      "id": 2,
+      "name": "Prime Video",
+      "icon_url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2023/03/amazon-prime-video-logo.jpg",
+      "playlist_url": "https://example.com/comedy_movies.m3u",
+      "cookie_url": ""
+    },
+    {
+      "id": 3,
+      "name": "MX Player",
+      "icon_url": "https://cf-images.assettype.com/cinemaexpress%2F2026-05-07%2F29z8ktru%2Famazonmxplayer.jpg",
+      "playlist_url": "https://example.com/horror_movies.m3u",
+      "cookie_url": ""
+    },
+    {
+      "id": 4,
+      "name": "Crunchyroll",
+      "icon_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/crunchyroll-white-logo-on-orange-background.jpg",
+      "playlist_url": "https://example.com/comedy_movies.m3u",
+      "cookie_url": ""
+    },
+    {
+      "id": 5,
+      "name": "Disney+",
+      "icon_url": "https://cdn.dribbble.com/userupload/23805233/file/original-3fb3faf53b59f4c4712ca55c7869d981.jpg",
+      "playlist_url": "https://example.com/comedy_movies.m3u",
+      "cookie_url": ""
+    },
+    {
+      "id": 6,
+      "name": "Zee5",
+      "icon_url": "https://www.bizasialive.com/wp-content/uploads/2025/06/z5001.jpg",
+      "playlist_url": "https://example.com/comedy_movies.m3u",
+      "cookie_url": ""
     }
   ],
   "movies_categories": [
