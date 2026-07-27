@@ -68,14 +68,14 @@
     {
       "id": 3,
       "name": "JioHotstar",
-      "icon_url": "https://www.livemint.com/lm-img/img/2025/02/14/optimize/Screenshot_2025-02-14_065533_1739496378365_1739517681557.png",
+      "icon_url": "https://www.advanced-television.com/wp-content/uploads/2025/02/JioHotstar.png",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
       "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
     {
       "id": 4,
       "name": "SonyLIV",
-      "icon_url": "https://ottking.in/wp-content/uploads/2022/12/sony-logo-768x768.jpg",
+      "icon_url": "https://cdn.dotpe.in/longtail/store-items/3681248/OUlLVlgQ.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
       "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
