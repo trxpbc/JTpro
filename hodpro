@@ -4,13 +4,13 @@
       "id": 1,
       "title": "Blockbuster Movies HD",
       "image_url": "https://www.bollywoodhungama.com/wp-content/uploads/2022/11/Pathaan-6.jpg",
-      "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/192520/stream.mkv?api_key=1a90a79999704bd8b70378a82b7c0648&Static=true&MediaSourceId=mediasource_192520&DeviceId=75769c8a-1a64-43b3-8adc-a3d1faa46845",
       "cookie_url": ""
     },
     {
       "id": 2,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://m.media-amazon.com/images/M/MV5BZDk0YzdmOTAtNTFmMi00NTQ0LThhMTAtNGY1NDRkNmIyODdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "image_url": "https://playyonogames.in/sliv/stream.m3u8?id=1000009248|Cookie=null&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&drmScheme=clearkey&drmLicense=null:null",
       "stream_url": "",
       "cookie_url": ""
     },
