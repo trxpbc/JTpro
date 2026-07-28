@@ -105,42 +105,42 @@
     {
       "id": 1,
       "name": "JioTV",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFy3amxhg5610xA0DxRFsRKLKM6z0ouZUNfDAHyQfxIDqBB2kZVyUcsTyaKoWznuzobW4XmkBpjCJVgoeqFj9-MnHvk3d4e97bLbzYWaWXJ8Czt0xY48UU-3VHaSGBZ6AYbdlf3NOxs-ag2VqmubAiDJv20t7S2TiuJypaWwFDC8gvsNitc4RbtWnLf3w/s1600/jiotvlogo-ct.jpeg",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCTFKw_eoYqKldxwSYDwMxIXQK7ksBZsLCB4AG6rbJI0ncbIy6Z89ofazyZhd_mGGItWR-RjXgqgS89Q2cKwuTXaafh7s8YOBKir8knKO1PrghJU-q5et2aVMOz15cU5RFshmkwOHrADOYoplz06B4vgRbDub57Q0b2hhJziOy5Hf3oY6LL_tUSZj7C4k/s1600/MusicLogo-ct.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Jtvo",
       "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
     {
       "id": 2,
       "name": "Jio Hotstar",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUyMf6MGJCGqDjcOqVUadCONlyjBcrGWM8Ct4EhWEqC0aeS1G-3uts1KeYvh1LrrEmadJoesJj2fRqc8pTUbFbZeVpwq_Rcn-uNXUtTZjWHaczvDe5PtSzxhVcvrKlhIp6EfNlz-39J7Dj_Sr_m9G3GBzFeswpjoHHeDcfdPz0bXEaFmegfj9EormruNU/s1600/jiohotstarlogo-ct.jpeg",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsEIeaf_XqhZOx18QjKQ-QzaIrAyNFG0gBOyeJNiDknRpxwTxwhsWOTjQ7YQHwEiVQdOhAvSwN6Rvip_C_Yp2KBWgTTBVylZ0wOuGqQNRe_ww6avO1Q9D2DGA0XVXr786Oosw1rwFf2Fi4m0d4aK3Eu72jqM5ZE0Urqv0ok3H9gCYI6Q0_bJIEkrQMujY/s1600/MoviesLogo-ct.jpeg",
       "playlist_url": "https://pllive.bmera5952.workers.dev/",
       "cookie_url": ""
     },
     {
       "id": 3,
       "name": "Voot TV",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaZdCJasZXqS1WcO7GM5T7pA3x7IMPl-gBPIUHWZaMnwIgko68QjZvSIi-I8gbWNsgZfF_Xwi6oP8DdYwVepG88vtB1ZF_kQ0sUW-DgFEVJEZlMwBqMGaYfDrNfaojMcWyOG-UXwZ2tqrKUfVOJvnEtoMavfcWw15CUGm2chgp6m2P3jNrHa9PapPSqgw/s1600/vootlogo-ct.jpeg",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaUalP3rTNG2ewDO82pA_FMQa14gYJFWURNZPeXrHZeLt4lTZvLmKtmgo5_JxmGbVCDfROmeJwtaKYmUHyBHWOqGZ-7Ac8509NJ_IS6KxSJoy7so4lWtRMqFeO5Jj5hKrQ0wqg7EV84_bLWDQASEGe3PFOZmVufW-0yLWrDg-Jw_RdM7-dcO3E_sLXSSE/s1600/NewsLogo-ct.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/JTpro/refs/heads/main/StrTVHD",
       "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
     {
       "id": 4,
       "name": "ZEE 5",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi279CvJH-SnTVSIreBJ66Na_JPS8PUb4rHxx4UxF5xSpsuJ_TvxdWrZaPd5W1YrCUE4VH2rrQXqKd_Vsr5o3QMskDfSD6xrIe0lnbnzfk1mC0m-gfotcZYBvUpq5fiKmyK4KT5VEqZ9kAN3WqkcEYXFWOaFOO4yk8Xo-pEFZiEsnsoqVflTlrRx_dIung/s1600/zee5logo-ct.jpeg",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzteEcYpE0xwVk9HEiFR9WxO_a_4lzY9mjYfhFN5YQXPeaPmhvhRG3yDZeezhIQHOD4zj8Rk_ckH5pizdI-SMA4PJiOzWEJT2FCo5cnVp8jv3ur7jcwKB8X8_95S64Omc1g0BDjRiT7f9lojP607ICzeJMVMaU7IQweR3aJMvW9HTgULmOWzQkYs_On9U/s1600/SportsLogo-ct.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Z5so",
       "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
     {
       "id": 5,
       "name": "Sony LIV",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7LrHpHrcusxxkhq6OtRu0D7WaQBG0nZwRcKxHCjngVMhTIm5-ZWa8YFr1tibuAT7AyWRJwoRoRUmMSIZZxA6jig9HXAcXW-LcAJfsnBiubpAaVoThyphenhyphendkb-Ion1n8xeQYo02n87RdiZ-O8TStZLTZjXaaOiqWqffpGPHKTWU-u48PU5uoopRzHnzFY_o4/s1600/sonylivlogo-ct.jpeg",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcz4-sVonh4LL9J6kLxEhluFz3oxH0aZn3xcboNq1sjf-iqIexqTHrZiN61SFAdLD0YFloPmcsSZDrW5bWlRP-eh4Ca4q_dmxte3g-JlC0n1hYLbLfNZxSHyi1CoIMFgh5UtxKXuIkBQpOKHg1EpeOqCHxeTj7vTmMxw8nxkosyu2mGkH0xW19shs4gc0/s1600/KidsLogo-ct.png",
       "playlist_url": "https://raw.githubusercontent.com/ProTube/IPTV/refs/heads/maint/slivd",
       "cookie_url": "https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/144/index.mpd"
     },
     {
       "id": 6,
       "name": "Jio Cinema",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-cXv9F0S9mh0F94JMJpgyHUZKLG_8dh69HLvydnfI6f1Q9D1m5El3qAciML_qiNh0odyKh55WqzIkTwJafj8wYPgdlTujXbjQTwOLSW1kC2Ana6Z69KfoXsFonF9TQqF9lHtvFZH-G6tl3hF6x_1PTykcpc0sbQVUQEey_RRLV49EMr0zLngtcEygO9Q/s1600/jiocinemalogo-ct.jpeg",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAWV1hJs4xn3rTYnfzzP1yaJKu-PzKFgcuBdWso7IBUNLBqO3GdneCGmcG2fFv-z5eiY4VzjhoKX-oaGQAeeR8QOpOOhBq-77f5NvkhXBlXAMXWqD1-Vlfg8boZIsVPd0JY36MBsqET-YAzEHaOaYlvLB8i1uPCrQabut5By8Ps9MW8d7gBzk6IAougSI/s1600/EntertainmentLogo-ct.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/JTpro/refs/heads/main/anm",
       "cookie_url": ""
     }
