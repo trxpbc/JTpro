@@ -11,42 +11,42 @@
       "id": 2,
       "title": "Blockbuster Movies HD",
       "image_url": "https://img.youtube.com/vi/yJ8Gpp6PT8U/maxresdefault.jpg",
-      "stream_url": "https://playyonogames.in/sliv/stream.m3u8?id=1000009248|Cookie=null&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&drmScheme=clearkey&drmLicense=null:null",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/196815/stream.mp4?api_key=eeb4305ea0b6487890da862f1e97d81e&Static=true&MediaSourceId=mediasource_196815&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
       "cookie_url": ""
     },
     {
       "id": 3,
       "title": "Blockbuster Movies HD",
       "image_url": "https://img.youtube.com/vi/y_x5IJ5cLTA/maxresdefault.jpg",
-      "stream_url": "",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/196885/stream.mkv?api_key=eeb4305ea0b6487890da862f1e97d81e&Static=true&MediaSourceId=mediasource_196885&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
       "cookie_url": ""
     },
     {
       "id": 4,
       "title": "Blockbuster Movies HD",
       "image_url": "https://img.youtube.com/vi/x172KyxnQmg/maxresdefault.jpg",
-      "stream_url": "",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/195029/stream.mkv?api_key=eeb4305ea0b6487890da862f1e97d81e&Static=true&MediaSourceId=mediasource_195029&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
       "cookie_url": ""
     },
     {
       "id": 5,
       "title": "Blockbuster Movies HD",
       "image_url": "https://img.youtube.com/vi/Ci0WbaUH3no/maxresdefault.jpg",
-      "stream_url": "",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/196764/stream.mkv?api_key=eeb4305ea0b6487890da862f1e97d81e&Static=true&MediaSourceId=mediasource_196764&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
       "cookie_url": ""
     },
     {
       "id": 6,
       "title": "Blockbuster Movies HD",
       "image_url": "https://img.youtube.com/vi/svN8sXUBM9I/maxresdefault.jpg",
-      "stream_url": "",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/195781/stream.mp4?api_key=eeb4305ea0b6487890da862f1e97d81e&Static=true&MediaSourceId=mediasource_195781&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
       "cookie_url": ""
     },
     {
       "id": 7,
       "title": "Blockbuster Movies HD",
       "image_url": "https://img.youtube.com/vi/GvXDq-P1NB8/maxresdefault.jpg",
-      "stream_url": "",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/196351/stream.mkv?api_key=eeb4305ea0b6487890da862f1e97d81e&Static=true&MediaSourceId=mediasource_196351&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
       "cookie_url": ""
     }
   ],
