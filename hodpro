@@ -24,29 +24,29 @@
     {
       "id": 4,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://img.youtube.com/vi/x172KyxnQmg/maxresdefault.jpg",
-      "stream_url": "http://160.187.56.254:8096/emby/videos/195029/stream.mkv?api_key=eeb4305ea0b6487890da862f1e97d81e&Static=true&MediaSourceId=mediasource_195029&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "image_url": "https://media.assettype.com/esquireindia%2F2026-05-30%2Fa9aj30oz%2FBhooth-Bangla-OTT-Release-Date-and-Streaming-Platform.jpg",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/190220/stream.mkv?api_key=eeb4305ea0b6487890da862f1e97d81e&Static=true&MediaSourceId=mediasource_190220&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
       "cookie_url": ""
     },
     {
       "id": 5,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://img.youtube.com/vi/Ci0WbaUH3no/maxresdefault.jpg",
-      "stream_url": "http://160.187.56.254:8096/emby/videos/196764/stream.mkv?api_key=eeb4305ea0b6487890da862f1e97d81e&Static=true&MediaSourceId=mediasource_196764&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "image_url": "https://static.asianetnews.com/images/w-1280,h-720,imgid-01kyrmqdhntpd68q4ma9aaq3y9,imgname-chatgpt-image-jul-30--2026--10-01-44-am-1785385956917.png",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/197103/stream.mkv?api_key=eeb4305ea0b6487890da862f1e97d81e&Static=true&MediaSourceId=mediasource_197103&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
       "cookie_url": ""
     },
     {
       "id": 6,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://img.youtube.com/vi/svN8sXUBM9I/maxresdefault.jpg",
-      "stream_url": "http://160.187.56.254:8096/emby/videos/195781/stream.mp4?api_key=eeb4305ea0b6487890da862f1e97d81e&Static=true&MediaSourceId=mediasource_195781&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "image_url": "https://cdn.123telugu.com/content/wp-content/uploads/2026/03/Subedaar.webp",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/192398/stream.mkv?api_key=eeb4305ea0b6487890da862f1e97d81e&Static=true&MediaSourceId=mediasource_192398&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
       "cookie_url": ""
     },
     {
       "id": 7,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://img.youtube.com/vi/GvXDq-P1NB8/maxresdefault.jpg",
-      "stream_url": "http://160.187.56.254:8096/emby/videos/196351/stream.mkv?api_key=eeb4305ea0b6487890da862f1e97d81e&Static=true&MediaSourceId=mediasource_196351&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "image_url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/03/dhurandhar-the-revenge-1774087746.webp",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/192520/stream.mkv?api_key=eeb4305ea0b6487890da862f1e97d81e&Static=true&MediaSourceId=mediasource_192520&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
       "cookie_url": ""
     }
   ],
