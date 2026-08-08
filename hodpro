@@ -229,7 +229,7 @@
       "id": 1,
       "name": "Bollywood",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCfx0fcBdrW5kATrkKYH6duZwLhtGibJsA9BOhA9kf5y-eHxTC74ezPNqtPbckIwTT_ja7NCZYTybA53zA367tvhS6Xs_hwhkVe1cLUvMvGDHn2jwFjrdP5-yDuU-IuGsxI17jCeFdfu6T9Ptql4J2K1CgBMfo3LSWkIbWiS-e-JdqXwKeT1-rW0NF0Z1M/s1600/Bollywood-logo.jpg",
-      "playlist_url": "https://pllive.bmera5952.workers.dev/",
+      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/ntfl",
       "cookie_url": ""
     },
     {
@@ -243,7 +243,7 @@
       "id": 3,
       "name": "Hollywood",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBPlixIHBTf9Mp2-niQisGDwUmHTnM9R1WAIdg6rMWtzWCK3NDSIGMD1GXxK-tqaPYSgKzedWcaQsvWMm9tpFVS1EyUgoc-2hHqVbcZ2mRJbsZRpsEEQy76FQYGM5MD_041vZPdL7UBOoBRNF79N3sNCCd2WZnZhSTmOGUYw81SJLxqUHqTBQPktRwP5j7/s1600/Hollywood-logo.jpg",
-      "playlist_url": "https://example.com/comedy_movies.m3u",
+      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/prm",
       "cookie_url": ""
     },
     {
@@ -257,7 +257,7 @@
       "id": 5,
       "name": "South",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2TL0AAHa_c-L4h5Fopcj5zhFXVSraj77D-ndU6ms7p5HZoH8JDHY-1-tsZNc-prekERv2KByaHki-wG8wcEACT1ZvdvNLnWe93VGDmOecVmbUha9mzhrHc4kzSvwMIst9vojmthJ0q58LHjmJTeSPG9oc6rA38GFIIGvx0jJ2QphnEqvxyv_72obnx18L/s1600/South-logo.jpg",
-      "playlist_url": "https://example.com/horror_movies.m3u",
+      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/sth",
       "cookie_url": ""
     },
     {
