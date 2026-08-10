@@ -227,55 +227,48 @@
   "movies_categories": [
     {
       "id": 1,
-      "name": "Bollywood",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCfx0fcBdrW5kATrkKYH6duZwLhtGibJsA9BOhA9kf5y-eHxTC74ezPNqtPbckIwTT_ja7NCZYTybA53zA367tvhS6Xs_hwhkVe1cLUvMvGDHn2jwFjrdP5-yDuU-IuGsxI17jCeFdfu6T9Ptql4J2K1CgBMfo3LSWkIbWiS-e-JdqXwKeT1-rW0NF0Z1M/s1600/Bollywood-logo.jpg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/ntfl",
-      "cookie_url": ""
-    },
-    {
-      "id": 2,
-      "name": "Horror",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh14u2ZWjdhQb-UKYS1xKWZe5yW5yjQAifKHj3fQBQgWtWb3ImnYXdVkdFwEKr_hjPRw_Ud6xQ5E0qtZXK49S_5uGwhAYyhq9EID1u7RcwG5dQiVlfGgR6IsIrMbROC5qtooWDN-f2tPwaCSdtsewAxGBr0QzGneYeYkRmFS8LVLjd_-q-OwCdQz0d2bhec/s1600/Horror-logo.jpeg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/hrro",
-      "cookie_url": ""
-    },
-    {
-      "id": 3,
-      "name": "Hollywood",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBPlixIHBTf9Mp2-niQisGDwUmHTnM9R1WAIdg6rMWtzWCK3NDSIGMD1GXxK-tqaPYSgKzedWcaQsvWMm9tpFVS1EyUgoc-2hHqVbcZ2mRJbsZRpsEEQy76FQYGM5MD_041vZPdL7UBOoBRNF79N3sNCCd2WZnZhSTmOGUYw81SJLxqUHqTBQPktRwP5j7/s1600/Hollywood-logo.jpg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/prm",
-      "cookie_url": ""
-    },
-    {
-      "id": 4,
-      "name": "Comedy",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmnFfVufYCLqn7CikpSF-fVEhtNs_F_dD2kdtUd-f2SNN6GO8d0ozXZTREzGVwUag_8QNh2lLvc1qvwgwDw9xcFuBvOVAXAWpy36q79yryJIV3LNUxvgYQTwynR_2DeeNNQLG95PwnGpKB1DadQM7oKlBd__oit5gq4CAiLkw-Vi3bfKymqua9eR7rt7_l/s1600/Comedy-logo.jpeg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/cmdy",
-      "cookie_url": ""
-    },
-    {
-      "id": 5,
-      "name": "South",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2TL0AAHa_c-L4h5Fopcj5zhFXVSraj77D-ndU6ms7p5HZoH8JDHY-1-tsZNc-prekERv2KByaHki-wG8wcEACT1ZvdvNLnWe93VGDmOecVmbUha9mzhrHc4kzSvwMIst9vojmthJ0q58LHjmJTeSPG9oc6rA38GFIIGvx0jJ2QphnEqvxyv_72obnx18L/s1600/South-logo.jpg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/sth",
-      "cookie_url": ""
-    },
-    {
-      "id": 6,
       "name": "Crime",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxtUVw8AHyIzzDtc7PY4JLA1jTQTCnpxbcHl18Ro9MGjFsjiixTOl2no4w7vUZlzGTbajc-zjgxBPBgN7gY2QGq9MQpcDDPoie3uGbkTABypBuG9yF3sRqGcyd9BWiWur99daPn11K3mpyuPW86G_wQ5zH7DcvzCPr0S65DrPmxb-s3FxKJyc4bmagaw6R/s1600/Crime-logo.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/crmi",
       "cookie_url": ""
     },
     {
-      "id": 7,
-      "name": "Other",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi62no17bCeUyTAeDSqvFQtEVb5JsG3G2Sxfetfs19fD-xlkhbE_YO6irMTLpe5ZMMDlnHeXCyej7sMdrNZ10vWYeLN-XBX8ei5bdePVsmC6Iahe7DAUy-hnZvJ6GJ6sHsvqq4az2Z-8UOkPxatQzczvtf-tszkHhdecya3XSDilFmveE5zQqtN8Dl0Qy5Q/s1600/Other-logo.jpg",
-      "playlist_url": "https://example.com/comedy_movies.m3u",
+      "id": 2,
+      "name": "Bollywood",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCfx0fcBdrW5kATrkKYH6duZwLhtGibJsA9BOhA9kf5y-eHxTC74ezPNqtPbckIwTT_ja7NCZYTybA53zA367tvhS6Xs_hwhkVe1cLUvMvGDHn2jwFjrdP5-yDuU-IuGsxI17jCeFdfu6T9Ptql4J2K1CgBMfo3LSWkIbWiS-e-JdqXwKeT1-rW0NF0Z1M/s1600/Bollywood-logo.jpg",
+      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/ntfl",
       "cookie_url": ""
     },
     {
-      "id": 8,
+      "id": 3,
+      "name": "Horror",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh14u2ZWjdhQb-UKYS1xKWZe5yW5yjQAifKHj3fQBQgWtWb3ImnYXdVkdFwEKr_hjPRw_Ud6xQ5E0qtZXK49S_5uGwhAYyhq9EID1u7RcwG5dQiVlfGgR6IsIrMbROC5qtooWDN-f2tPwaCSdtsewAxGBr0QzGneYeYkRmFS8LVLjd_-q-OwCdQz0d2bhec/s1600/Horror-logo.jpeg",
+      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/hrro",
+      "cookie_url": ""
+    },
+    {
+      "id": 4,
+      "name": "Hollywood",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBPlixIHBTf9Mp2-niQisGDwUmHTnM9R1WAIdg6rMWtzWCK3NDSIGMD1GXxK-tqaPYSgKzedWcaQsvWMm9tpFVS1EyUgoc-2hHqVbcZ2mRJbsZRpsEEQy76FQYGM5MD_041vZPdL7UBOoBRNF79N3sNCCd2WZnZhSTmOGUYw81SJLxqUHqTBQPktRwP5j7/s1600/Hollywood-logo.jpg",
+      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/prm",
+      "cookie_url": ""
+    },
+    {
+      "id": 5,
+      "name": "Comedy",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmnFfVufYCLqn7CikpSF-fVEhtNs_F_dD2kdtUd-f2SNN6GO8d0ozXZTREzGVwUag_8QNh2lLvc1qvwgwDw9xcFuBvOVAXAWpy36q79yryJIV3LNUxvgYQTwynR_2DeeNNQLG95PwnGpKB1DadQM7oKlBd__oit5gq4CAiLkw-Vi3bfKymqua9eR7rt7_l/s1600/Comedy-logo.jpeg",
+      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/cmdy",
+      "cookie_url": ""
+    },
+    {
+      "id": 6,
+      "name": "South",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2TL0AAHa_c-L4h5Fopcj5zhFXVSraj77D-ndU6ms7p5HZoH8JDHY-1-tsZNc-prekERv2KByaHki-wG8wcEACT1ZvdvNLnWe93VGDmOecVmbUha9mzhrHc4kzSvwMIst9vojmthJ0q58LHjmJTeSPG9oc6rA38GFIIGvx0jJ2QphnEqvxyv_72obnx18L/s1600/South-logo.jpg",
+      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/sth",
+      "cookie_url": ""
+    },
+    {
+      "id": 7,
       "name": "Romance",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzlMEArIJFa51ojgLc4MS_ycYDJJOFt8qqj4poP_OP215LvTxjisaHbzXex-cSZQEWGGBqDuM-6PdMoQ1KaLPc-XQYKM-DHx97eM6TX87ZhYWne1DC5Q5_5f7JGbl-pf4I_KFtTv-KKoFxXBo9h_fBq_0mc9x1fP4pU3_4H2DJ7xwHM23jIAOErMPqwikB/s1600/Romance-logo.jpeg",
       "playlist_url": "https://example.com/comedy_movies.m3u",
