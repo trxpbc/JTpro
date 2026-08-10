@@ -111,69 +111,41 @@
     },
     {
       "id": 2,
-      "name": "Lifestyle",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwF9SeCQ2ZMXKZzzLkaFMaWSo-ODO-KRV8u7fO4jHLWr7ScCegfoUXIx5w-2uxOIGAHo3v7FygwkrYq5GCB2XRN1GlxLD92rHoINznucEUcngvWl3kH9BCmjRuwBndQenLSfYV8uJybULDDK83nEi-BRT5hKi-4lW7Bz9Uwm93NCR8HvxNf3ohBQ7HLPs/s1600/Lifestylelogo-ct.jpeg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/lfst",
-      "cookie_url": "https://jiooo.cr7x.workers.dev/live/xyz/xyz/144/index.mpd"
-    },
-    {
-      "id": 3,
       "name": "Movies",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsEIeaf_XqhZOx18QjKQ-QzaIrAyNFG0gBOyeJNiDknRpxwTxwhsWOTjQ7YQHwEiVQdOhAvSwN6Rvip_C_Yp2KBWgTTBVylZ0wOuGqQNRe_ww6avO1Q9D2DGA0XVXr786Oosw1rwFf2Fi4m0d4aK3Eu72jqM5ZE0Urqv0ok3H9gCYI6Q0_bJIEkrQMujY/s1600/MoviesLogo-ct.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/movs",
       "cookie_url": "https://jiooo.cr7x.workers.dev/live/xyz/xyz/144/index.mpd"
     },
     {
-      "id": 4,
-      "name": "Education",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYxDNdq1XI1y2U5xtV4zcCBiXrRf4AmVdZDfuaverA40moMbRVXM4FocwZ92tQTsWkyi1W3Mcz0qtvjbwC7kXmPSzdSNTlxKs391Bt0BJxdfaYGDQjy9Sr6rudgHy-5uWkfegk0yUda0gGzGdiuWWI6VlBSaqeJp6pj00jycM0tKSf2oq107eeujIzR1U/s1600/Educationlogo-ct.jpeg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/edcn",
-      "cookie_url": "https://jiooo.cr7x.workers.dev/live/xyz/xyz/144/index.mpd"
-    },
-    {
-      "id": 5,
+      "id": 3,
       "name": "News",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaUalP3rTNG2ewDO82pA_FMQa14gYJFWURNZPeXrHZeLt4lTZvLmKtmgo5_JxmGbVCDfROmeJwtaKYmUHyBHWOqGZ-7Ac8509NJ_IS6KxSJoy7so4lWtRMqFeO5Jj5hKrQ0wqg7EV84_bLWDQASEGe3PFOZmVufW-0yLWrDg-Jw_RdM7-dcO3E_sLXSSE/s1600/NewsLogo-ct.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/nwss",
       "cookie_url": "https://jiooo.cr7x.workers.dev/live/xyz/xyz/144/index.mpd"
     },
     {
-      "id": 6,
-      "name": "Infotainment",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6dWw14zVmgoDjP13NzlHKG9eLXNsa1vC9kl83r3JK1MM2tRkh0uj82l6fBLAajWYstkah3yT7YMq_yLr_j04v5PTugAvAfNGnpwqm1GXoNhil5DR1OYn7Gae6pHWiweIfIhbgQ3gY99cnOr0pAiXMO2X3mrpaY1o5F8nAYRH0Zk0jA7-KQb6_xyiKRPc/s1600/Infologo-ct.jpeg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/infot",
-      "cookie_url": "https://jiooo.cr7x.workers.dev/live/xyz/xyz/144/index.mpd"
-    },
-    {
-      "id": 7,
+      "id": 4,
       "name": "Sports",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzteEcYpE0xwVk9HEiFR9WxO_a_4lzY9mjYfhFN5YQXPeaPmhvhRG3yDZeezhIQHOD4zj8Rk_ckH5pizdI-SMA4PJiOzWEJT2FCo5cnVp8jv3ur7jcwKB8X8_95S64Omc1g0BDjRiT7f9lojP607ICzeJMVMaU7IQweR3aJMvW9HTgULmOWzQkYs_On9U/s1600/SportsLogo-ct.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/sprts",
       "cookie_url": ""
     },
     {
-      "id": 8,
+      "id": 5,
       "name": "Devotional",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_x0CvsGD4BTCNDxlLI8-ooFvGOMp-1roAen9hba9QojtUl25xHrujwYhLTEkdopdGBdtI9H1pMrkDqUidKU7rGfFQPqb1t9Q-cuhU7hyphenhyphen8erJj8AvSPGHKa0eERB2YfxDW2ATzSbIh4DQVHZM2A8NXi0Grm9l7czxIU_jG-fjBfuQc69Zh3JbhwpeLPk/s1600/Devotlogo-ct.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/devt",
       "cookie_url": "https://jiooo.cr7x.workers.dev/live/xyz/xyz/144/index.mpd"
     },
     {
-      "id": 9,
+      "id": 6,
       "name": "Kids",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcz4-sVonh4LL9J6kLxEhluFz3oxH0aZn3xcboNq1sjf-iqIexqTHrZiN61SFAdLD0YFloPmcsSZDrW5bWlRP-eh4Ca4q_dmxte3g-JlC0n1hYLbLfNZxSHyi1CoIMFgh5UtxKXuIkBQpOKHg1EpeOqCHxeTj7vTmMxw8nxkosyu2mGkH0xW19shs4gc0/s1600/KidsLogo-ct.png",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/kdss",
       "cookie_url": "https://jiooo.cr7x.workers.dev/live/xyz/xyz/144/index.mpd"
     },
     {
-      "id": 10,
-      "name": "Business",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPhBSt2FPbT-78M-0a2sBSNtp3yEEZbyk9xMbxZqsEAe6XtCsxmz5dC0kN_JZmJvaNIRK7qoS4ZUhDcpmyUkpCnsFHFQW8m_mbNmAW6bt_hqgB5ASmXNvLVUwfStC_62F_CmjCZmEjgoHT0-QnmS3Odm16pIMxi2QsmP6kHTZ98AqIo8xUlEJEdrVcMwF1/s1600/Businesslogo-ct.jpeg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/bsnws",
-      "cookie_url": "https://jiooo.cr7x.workers.dev/live/xyz/xyz/144/index.mpd"
-    },
-    {
-      "id": 11,
+      "id": 7,
       "name": "Entertainment",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAWV1hJs4xn3rTYnfzzP1yaJKu-PzKFgcuBdWso7IBUNLBqO3GdneCGmcG2fFv-z5eiY4VzjhoKX-oaGQAeeR8QOpOOhBq-77f5NvkhXBlXAMXWqD1-Vlfg8boZIsVPd0JY36MBsqET-YAzEHaOaYlvLB8i1uPCrQabut5By8Ps9MW8d7gBzk6IAougSI/s1600/EntertainmentLogo-ct.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/entrt",
