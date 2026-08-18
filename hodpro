@@ -67,41 +67,48 @@
     },
     {
       "id": 3,
+      "name": "JioTV+2",
+      "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10",
+      "playlist_url": "https://upaidworker.streamxlive.workers.dev/",
+      "cookie_url": ""
+    },
+    {
+      "id": 4,
       "name": "Jio Hotstar",
       "icon_url": "https://www.advanced-television.com/wp-content/uploads/2025/02/JioHotstar.png",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/hstr",
       "cookie_url": ""
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Fancode",
       "icon_url": "https://play-lh.googleusercontent.com/VwwyvMYe8rVhEwAP2MIUliY0ZAwyb41jHzd5RLwvYIm7H4M4ty-kWtLNWsMKRmyqWg4uO0Buw8YhAtuR9effBg",
       "playlist_url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
       "cookie_url": ""
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Sony LIV",
       "icon_url": "https://cdn.dotpe.in/longtail/store-items/3681248/OUlLVlgQ.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/vtpi/refs/heads/main/SlvSD",
       "cookie_url": "https://jiooo.cr7x.workers.dev/live/xyz/xyz/144/index.mpd"
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "ZEE 5",
       "icon_url": "https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/zso",
       "cookie_url": ""
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "Voot",
       "icon_url": "https://play-lh.googleusercontent.com/InSOp5thAKQxms_ZZfRVjefSQFX2_WDTR1B03C3zcmxftJUkOWC2c__ciwfFLwxT2G6aRQmjfMV28-tnV6dE0w",
       "playlist_url": "https://raw.githubusercontent.com/trxpbc/gbp/refs/heads/main/Voto",
       "cookie_url": "https://allinonereborn2.online/jstrweb2/cookies.json"
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "JioCinema",
       "icon_url": "https://static.thearcweb.com/images/PROD/PROD-594ff280-6071-4cd5-85c0-d8be93abbfdb.png",
       "playlist_url": "https://raw.githubusercontent.com/Sflex0719/STBPLUS/refs/heads/main/Zio.m3u",
