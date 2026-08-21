@@ -192,7 +192,7 @@
       "id": 4,
       "name": "Crunchyroll",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9XQalybQ4sieBp__ESw0jxC7nJNLOqFuOts0XGPlAojR5tilcLfneobaoDAMAQqVFIkkqCH5krzMFtC2ICOWkpzfq4Uh3sPlGxBtRb-DZ71lE1RMZqGYUQBnrQrRr1gvdxtC_AA5JQuwqbDeQa1FTna78kAsG_C_UuO7GGu6ZA5fz_1_WGtTI2D8WnIV/s1600/cruncrunchyroll-logo.jpg",
-      "playlist_url": "https://example.com/comedy_movies.m3u",
+      "playlist_url": "https://jhs-channels.rtxcric.workers.dev/playlist.m3u",
       "cookie_url": ""
     },
     {
