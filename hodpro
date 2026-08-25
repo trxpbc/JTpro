@@ -55,28 +55,28 @@
       "id": 1,
       "name": "JioTV",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcvUKR4uGCIEK-Qlawxv6mBi0pvNDa5LpL_oKz-MMv3gqyVy3z-GCM0IFE7JRAoydBoG0cGkDbXCNZPK8Diu3rRj5wBiHavqAFrIoxNAz7UCDmnVU14o5raGuzUuoKMolIsbARxp2mUqtXcRuSuoi4jtSKw0mSfS8nwEurhXj7zbGxqIKbRy8pgQMxkPmc/s1600/JioTV-logo.png",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/jtv",
-      "cookie_url": "https://jiooo.cr7x.workers.dev/live/xyz/xyz/144/index.mpd"
+      "playlist_url": "https://raw.githubusercontent.com/Sflex0719/STBPLUS/refs/heads/main/Zio.m3u",
+      "cookie_url": ""
     },
     {
       "id": 2,
       "name": "JioTV+",
       "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/playlist.m3u",
+      "playlist_url": "https://raw.githubusercontent.com/Sflex0719/STBPLUS/refs/heads/main/Zio.m3u",
       "cookie_url": ""
     },
     {
       "id": 3,
       "name": "JioCinema",
       "icon_url": "https://static.thearcweb.com/images/PROD/PROD-594ff280-6071-4cd5-85c0-d8be93abbfdb.png",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/playlist3.m3u",
+      "playlist_url": "https://raw.githubusercontent.com/Sflex0719/STBPLUS/refs/heads/main/Zio.m3u",
       "cookie_url": ""
     },
     {
       "id": 4,
       "name": "JioTV+2",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNBWrB2vaq2-YK5REHPb_Y2WLz1VxISmiTzcsX9Y2jDqZ4Bg_X-NUqu11F8THHrcVRWkzajVlgMcGa5cXmdV4DxFsKM3OAeM8HZulF3oLTC6xvtRPahaQipt17MRatriujmYpylkeJiIUZycNB35rq9Rmx98GHe-wxcadglHXv5EE7nYKMymOBgyAZV4Y/s1600/jiotvsss.jpeg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/playlist2.m3u",
+      "playlist_url": "https://raw.githubusercontent.com/Sflex0719/STBPLUS/refs/heads/main/Zio.m3u",
       "cookie_url": ""
     },
     {
@@ -97,7 +97,7 @@
       "id": 7,
       "name": "ZEE 5 HD",
       "icon_url": "https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/zhd5",
+      "playlist_url": "https://raw.githubusercontent.com/Sflex0719/STBPLUS/refs/heads/main/Zio.m3u",
       "cookie_url": ""
     },
     {
@@ -105,21 +105,21 @@
       "name": "Sony LIV",
       "icon_url": "https://cdn.dotpe.in/longtail/store-items/3681248/OUlLVlgQ.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/slvsdhd",
-      "cookie_url": "https://jiooo.cr7x.workers.dev/live/xyz/xyz/144/index.mpd"
+      "cookie_url": ""
     },
     {
       "id": 9,
       "name": "ZEE 5",
       "icon_url": "https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/zso",
-      "cookie_url": "https://jiooo.cr7x.workers.dev/live/xyz/xyz/144/index.mpd"
+      "playlist_url": "https://raw.githubusercontent.com/Sflex0719/STBPLUS/refs/heads/main/Zio.m3u",
+      "cookie_url": ""
     },
     {
       "id": 10,
       "name": "Voot",
       "icon_url": "https://play-lh.googleusercontent.com/InSOp5thAKQxms_ZZfRVjefSQFX2_WDTR1B03C3zcmxftJUkOWC2c__ciwfFLwxT2G6aRQmjfMV28-tnV6dE0w",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/voto",
-      "cookie_url": "https://jiooo.cr7x.workers.dev/live/xyz/xyz/144/index.mpd"
+      "playlist_url": "https://raw.githubusercontent.com/Sflex0719/STBPLUS/refs/heads/main/Zio.m3u",
+      "cookie_url": ""
     }
   ],
   "livetv_categories": [
